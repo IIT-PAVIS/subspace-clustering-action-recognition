@@ -1,0 +1,45 @@
+*/*.pyc
+*.pyc
+*/__pycache__/*
+
+*.csv
+*.txt
+*.zip
+*.7z
+*.tar
+*.gz
+
+## MATLAB rubbish
+*.m~
+*.asv
+*.fig
+
+## MATLAB-like data
+*.mat
+
+## LateX rubbish
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.pdf
