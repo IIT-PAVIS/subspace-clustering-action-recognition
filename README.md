@@ -1,5 +1,7 @@
 # Subspace Clustering for Action Recognition with Covariance Representations and Temporal Pruning
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msr-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msr-1?p=subspace-clustering-for-action-recognition) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msrc-12)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msrc-12?p=subspace-clustering-for-action-recognition)
+
 <img src="./pipeline.png" alt="output"/>
 
 This repository provides the supporting code for [our work](https://arxiv.org/abs/2006.11812) accepted to [ICPR 2020](https://www.micc.unifi.it/icpr2020/)
