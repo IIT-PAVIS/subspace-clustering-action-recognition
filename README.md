@@ -1,6 +1,9 @@
 # Subspace Clustering for Action Recognition with Covariance Representations and Temporal Pruning
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msr-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msr-1?p=subspace-clustering-for-action-recognition) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msrc-12)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msrc-12?p=subspace-clustering-for-action-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msr-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msr-1?p=subspace-clustering-for-action-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msrc-12)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msrc-12?p=subspace-clustering-for-action-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-hdm05)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-hdm05?p=subspace-clustering-for-action-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/subspace-clustering-for-action-recognition/skeleton-based-action-recognition-on-msr)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msr?p=subspace-clustering-for-action-recognition)
 
 <img src="./pipeline.png" alt="output"/>
 
